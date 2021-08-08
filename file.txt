@@ -7,3 +7,7 @@ This text is edited within windows browser to test syncing process
 
 Hello, USer this is machine 2.
 Nice to meet you too...
+This is again edited from linux machine
+
+I am eating an apple.
+What are you doing ???
