@@ -1,3 +1,9 @@
 This is a text file.
 Created in the Linux machine for github.
 Nice to meet you....
+
+
+This text is edited within windows browser to test syncing process
+
+Hello, USer this is machine 2.
+Nice to meet you too...
